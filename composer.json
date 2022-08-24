@@ -1,0 +1,15 @@
+{
+    "name": "kaswell/yii-evens-listener",
+    "autoload": {
+        "psr-4": {
+            "Kaswell\\YiiEvensListener\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kaswell",
+            "email": "a.kasatkin@nonium.by"
+        }
+    ],
+    "require": {}
+}
